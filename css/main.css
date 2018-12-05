@@ -1,0 +1,611 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+	
+}
+.a{
+	size: 30px;
+	display: flex;
+	margin: 0px;
+	padding: 50px;
+	border: 10px ;
+    padding: 35px;
+    background: black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    color: white;
+
+  }
+ 
+  
+
+
+.one{
+	text-align: center;
+	padding: 10px;
+	padding-top: 27px;
+	background: #4F4F4FFF;
+	background: black;
+	opacity: 0.6;
+    filter: alpha(opacity=60);
+    color: white;
+    border: 15px;
+}
+
+.one :hover {
+      border: 2px solid #19ADE5FF;
+      padding: 10px; 
+      color: #19ADE5FF; text-decoration: none;
+      
+}
+
+.one a{
+	color: black;
+	text-decoration: none;
+	margin: 25px;
+    color: white;
+}
+
+
+.b{
+	text-align: center;
+	margin: 15px;
+	
+    margin-top: 100px;
+}
+
+	
+
+h1{
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+h1 b, .active b {
+	color: blue;
+	font-family: Bebas;
+}
+
+header {
+
+	  background: url("../img/blueasy.jpg");
+	  height: 600px;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  position: rel#353535FF;
+	}
+
+
+	
+.services-container{
+	background-color: #19ADE5FF;
+	
+}
+.services{
+	
+	height: auto;
+	align-items: center;
+	max-width: 960px;
+    margin: 0 auto;
+    color: white;
+	
+} 
+.b h3{
+	color: white;
+	background: black;
+	opacity: 0.6;
+    filter: alpha(opacity=60);
+    margin: 10px;
+    margin-top: 20px;
+    display: inline-block;
+    font-size: 40px;
+
+}
+
+
+.main  {
+display: flex;
+flex-wrap: nowrap;
+margin-right: -75px;
+margin-left: -90px;
+
+
+}
+ 
+ h2 b {
+ 	text-decoration: underline;
+ }
+
+h2 {
+	padding: 18px;
+	margin-left:-83px;
+}
+.services-main{
+	margin: 25px;
+	flex-grow:1;
+	flex-basis: 0;
+}
+
+
+ .main img{
+	height:  50px;
+	width: 50px;
+
+}
+.protfolio{
+	background-color: white;
+	display: flex;
+	max-width: 960px;
+    margin: 0 auto;
+    justify-content: space-between;
+
+}
+ .list{
+ 	margin-left: 185px;
+ }
+
+.protfolio ul li {
+
+	display: inline-flex;
+	text-decoration: none;
+	list-style-type: none;
+	margin: 8px;
+	padding: 15px;
+
+	
+}
+.protfolio ul :hover {
+      border: 2px solid #19ADE5FF;
+      padding: 10px; 
+      color: #19ADE5FF; text-decoration: none;
+      
+}
+.portfolio-list{
+	display: flex;
+	list-style-type: none;
+	padding: 5px;
+	margin: 15px;
+	justify-content: center;
+	position: relative;
+
+}
+.portfolio-list li {
+	margin: 20px;
+	
+}
+
+
+
+.nav{
+	background: #4C4C4CFF;
+}
+
+.nav1{
+	
+	color: white;
+	max-width: 960px;
+    margin: 0 auto;
+	height: 400px;
+	display: flex;
+
+
+
+} 
+
+.flex-nav{
+	margin: 50px;
+
+
+}
+ .flex-nav h4{
+
+	margin: 8px;
+	
+	margin-left: -67px;
+	
+}
+video{
+	margin-top: 50px;
+}
+.flex-nav button {
+	background: #4C4C4CFF;
+	color: black;
+	border: 2px solid black;
+	margin-left: -66px;
+    padding: 16px;
+    margin-top: 8px;
+}
+
+
+
+
+
+
+
+.twitter{
+	background-color: #4da6ff;
+
+
+}
+.twitter-nav {
+	height: 200px;
+	color: white;
+	max-width: 960px;
+    margin: 0 auto;
+}
+.twitter-nav img {
+	float: right;
+}
+.twitter-nav p {
+	margin: 15px;
+	font-size: 27px;
+    margin-left: -57px;
+	
+}
+strong {
+			font-family: "SegoeUI-SemiBold", serif;
+		}
+
+
+
+
+.foto{
+	background-image: url("../img/blueasy2.jpg");
+}
+
+.foto-nav{
+	height: 500px;
+	color: white;
+	max-width: 960px;
+    margin: 0 auto;
+}
+
+
+
+
+}
+.section-content{
+	display: flex;
+	
+}
+
+
+.foto-flex{
+
+	margin: 35px;
+    display: flex;
+    margin-left: -76px
+}
+
+.foto-flex p{
+
+	margin: 10px;
+}
+.foto-flex img{
+
+	border: 2px solid white;	
+	padding: 19px;
+	margin: 27px;
+    height: 29px;
+}
+.img{
+	display: flex;
+}
+.test{
+	background-color: white;
+}
+.test-nav{
+	height: 200px;
+	max-width: 960px;
+    margin: 0 auto;
+}
+.test-nav p{
+	margin: 8px;
+	font-size: 23px;
+}
+
+
+
+
+.test-nav p {
+	margin: 14px;
+	margin-left: -69px;
+}		
+
+.test-nav a {
+	margin-left: -69px;
+}
+
+
+.test-nav img{
+	float: right;
+	width: 44px;
+	height: 34px;
+}
+
+.contact{
+	background-image:  url("../img/blueasy3.jpg");
+}
+
+.contact-nav{
+
+	height: 700px;
+	color: white;
+	max-width: 960px;
+    margin: 0 auto;
+}
+.contact-flex{
+
+	display: flex;
+	justify-content: space-between;
+	margin: 20px;
+	margin-left: -69px;
+
+}
+h5{
+	margin: 18px;
+	margin-left: 120px;
+}
+.contact-flex input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid white;
+    outline: none;
+    background: no-repeat;
+}
+.massage input[type=text] {
+    width: 100%;
+    height: 220px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid white ;
+    outline: none;
+    background: no-repeat;
+}
+.massage{
+	margin: 20px;
+	margin-left: -69px;
+}
+
+.contact-nav button {
+	 background-color: #4da6ff;
+    border: none;
+    color: white;
+    padding: 15px 82px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: -69px;
+
+}
+
+
+footer{
+	background-color: #353535FF;
+}
+
+.footer-center{
+text-align: center;
+
+}
+
+.footer-flex{
+	display: flex;
+	justify-content: space-between;
+	
+	max-width: 960px;
+	margin: 0 auto;
+	color: white;
+	padding: 85px;
+	}
+.footer-flex ul a{
+ 
+	text-decoration: none;
+	color: white;
+	
+
+
+}
+.footer-nav{
+
+}
+.footerLink{ 
+ margin-left:  20px;
+ min-width: 100px; 
+ border-right:  1px solid white; 
+ padding-right: 20px;
+
+}
+.footer-link{
+	padding-left: 20px;
+}
+@media screen and (max-width: 800px) {
+    * {
+    	flex-direction: column;
+		width: 115%;
+		
+
+    }
+
+    .a{
+        flex-direction: column;
+		width: 80%;
+		
+		background: 60%;
+		width: 610px;
+}
+.a h1 b {
+	font-size: 20px;
+}
+	
+    
+    header{
+    	flex-direction: column;
+		width: 80%;
+		font-size: 10px;
+    }
+    .b{
+    	flex-direction: column;
+    	width: 635px;
+       
+    }
+    .a h1 {
+    	text-align:  center;
+    	margin-left: 0px;
+    }
+	.b h3{
+		font-size: 20px;
+	}
+	.services{
+		margin-left: 74px;
+	}
+
+	.services h2{
+		margin-left: 12px;
+		width: 80%;
+		font-size: 20px;
+	}
+	.main {
+		margin-left: 0px;
+		width: 455px;
+	}
+	.protfolio h2 {
+		text-align: center;
+		width: 80%;
+		font-size: 23px;
+	}
+	.portfolio-list {
+		display: flex;
+		flex-direction: row;
+		width: 574px;
+    	margin-left: 132px;
+	}
+	.portfolio-list img{
+		
+		width: 70px;
+		height: 90px;
+
+	}
+	.list {
+		display: flex;
+		flex-direction: row;
+		width: 200px;
+		margin-left: 74px
+	}
+    .nav1{
+    	
+    	height: auto;
+    }
+    .flex-nav  {
+    	
+    	
+		width: 400px;
+    	font-size: 22px;
+    	
+
+    }
+    
+   
+    .flex-nav button{
+    	size: 20px;
+    	align-items: center;
+    	font-size: 10px;
+    }
+    .flex-nav video{
+    	margin-top: -30px;
+    	margin-left: -60px;
+    }
+
+    .twitter-nav{
+    	margin-left: 162px;
+    }
+    .twitter-nav h2 img{
+    	width: 20px;
+		height: 20px;
+
+    }
+    
+    .twitter-nav img{
+    	margin-left: 500px;
+    	float: none;
+
+    }
+    .twitter-nav p {
+    	font-size: 18px;
+    	width: 600px;
+    }
+        .foto-flex{
+    	margin-left: 15px;
+    	width: 80%;
+    	margin: 0px;
+
+    }
+    .foto-flex img{
+	width: 20px;
+	height: 20px;
+	display: flex;
+	flex-direction: row;
+    }
+    .section-content{
+    	width: 80%;
+    	margin-left: -89px;
+    }
+    .img {
+    	display: flex;
+    	flex-direction: row;
+    }
+    .foto-flex p {
+    	margin-left: 25px;
+    }
+
+	.test-nav{
+    	margin-left: 162px;
+    }
+    .test-nav h2 img{
+    	width: 20px;
+		height: 20px;
+
+    }
+    
+    .test-nav img{
+    	margin-left: 300px;
+    	float: none;
+
+    }
+    .test-nav p {
+    	font-size: 15px;
+    	width: 600px;
+    }
+    .contact-nav{
+    	height: 900px;
+    }
+    .contact-flex{
+    	width: 400px;
+    }
+    .contact-info{
+    	width: 600px;
+    	margin-left: -115px;
+    }
+     .contact-info h5{
+     	width: 400px;
+     	font-size: 20px;
+     }
+    .massage{
+    	width: 400px;
+    }
+	.contact-nav button{
+		width: 200px;
+	}
+	.footer-flex{
+		width: 520px;
+		margin-left: 15px;
+	}
+}
